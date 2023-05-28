@@ -31,6 +31,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+lib/api/client.dart
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -45,3 +46,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+appwrite.json
+lib/api/client.dart
+lib/utils/api.dart
